@@ -1,0 +1,31 @@
+h4{color:white;}
+.title_image{border-radius: 50px;width:100px;height:100px;position: absolute ;margin-top: -140px;margin-left: 35%;border: 2px solid #dcdcdc;}
+.bottom_inputtype{background-color: rgba(0,0,0,0.6); color: #DCDCDC; padding:5px 5px 5px 5px; }
+.user_id_div{margin-top: 50px;background-color: rgba(0,0,0,0.6);padding:5px 5px 5px 5px;border-radius: 20px;}
+.user_id{background-color: transparent; color:white;border:0px solid black; width:80%;height:30px}
+.password_div{margin-top: 20px;background-color: rgba(0,0,0,0.6); padding:5px 5px 5px 5px; border-radius: 20px;}
+.user_password{background-color: transparent; color:white;border:0px solid black; width:80%;height:30px}
+.submit{background-color: transparent;color: white;padding:10px 10px 10px 10px;margin-left: 47% ;margin-top :20px;border: 0px solid black;}
+.title_image_chatbot{border-radius: 50px; width:100px;height:100px ;margin-top: -126px;margin-left: 35%; border: 2px solid #dcdcdc;position: absolute;}
+.chatbot_user_answer_div{width: 537px;height: 79%; border: 0px solid black;overflow-y: scroll;}
+.chatbot_answer_message{color: white;background-color: rgba(0,0,0,0.6);float: left;border: 1px solid #dcdcdc;padding: 3px 3px 3px 3px; border-radius: 10px}
+.user_answer_message{color: white;background-color: rgba(0,0,0,0.6);float: right;border: 1px solid green;padding: 3px 3px 3px 3px; margin-right: 20px;border-radius: 10px}
+.Input_Button_Div{margin-top: 10px;background-color: rgba(0,0,0,0.6); padding:5px 5px 5px 5px; border-radius: 20px;}
+.Query_input{background-color: transparent; color:white;border:0px solid black; width:80%;height:30px}
+.Query_submit{border: 0px solid black;color:white;background-color: transparent;margin-left: 10px;}
+.dropdowndiv{width:350px ;height:260px;border:1px solid #dcdcdc;background-color:rgba(0,0,0,0.9);z-index:+1 ;position: absolute;float: left;}
+.dropdownlist{text-decoration: none;list-style: none;color:white;font-size: 30px;}
+.Query_img{border-radius: 50px; width:100px;height:100px ;margin-top: -130px;margin-left: 42%; border: 2px solid #dcdcdc;position: absolute;}
+.questions{background-color: rgba(0,0,0,0.6);color:white; margin-top:10px;}
+.question_link{text-decoration: none;float:right;color:red;}
+.dropdownlist li a{text-decoration: none;color:white;margin-top: -10px;}
+.dropdownlist li a:hover{text-decoration: none;border: 1px solid #dcdcdc;border-radius: 20px;padding: 7px 7px 7px 7px;color:blue; }
+.add_question_div{margin-top: 50px;background-color: rgba(0,0,0,0.6); padding:5px 5px 5px 5px; border-radius: 20px;}
+.New_Question{background-color: transparent; color:white;border:0px solid black; width:80%;height:70px}
+.New_Answer_div{margin-top: 50px;background-color: rgba(0,0,0,0.6); padding:5px 5px 5px 5px; border-radius: 20px;}
+.New_Answer{background-color: transparent; color:white;border:0px solid black; width:80%;height:70px}
+.New_Query_Submit{background-color: transparent;color: white; min-width:10px ;padding:10px 10px 10px 10px;margin-left: 32% ;position : absolute; margin-top :40px;border: 1px solid #dcdcdc;border-radius: 5px;text-decoration: none;}
+.dropdown{color: white;margin-left: 10px; margin-top:10px; float: left; z-index: +1;position: absolute;}
+.user_id{background-color: transparent; color:white;border:0px solid black; width:80%;height:30px}
+.user_id_fa{border: 0px solid black;color:white;background-color: transparent;margin-left: 10px;}
+.submit_changepassword{background-color: transparent;color: white;padding:10px 10px 10px 10px;margin-left: 45% ;margin-top :20px;border: 0px solid black;}
